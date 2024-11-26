@@ -1,4 +1,4 @@
-# Anomaly Detection Service
+# Real Time Analytics
 
 ## Projekt zaliczeniowy
 ### Przedmoit  : ANALIZA DANYCH W CZASIE RZECZYWISTYM
